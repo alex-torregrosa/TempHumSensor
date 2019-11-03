@@ -20,6 +20,9 @@
  *******************************
    DESCRIPTION
    Temperature, Humidity, Light level sensor using SI7021
+
+   Original code by Nca78:
+ https://www.openhardware.io/view/411/BlackCircle-Sensor-High-WAF-TempHum-sensor
 */
 
 /*
@@ -122,6 +125,8 @@
 //#define MY_PARENT_NODE_ID 0  // 0 is gateway
 //#define MY_PARENT_NODE_IS_STATIC
 
+// Baud rate fix
+#define BAUD_RATE 9600
 /*
  ***********************************************************************
 

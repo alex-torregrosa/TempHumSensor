@@ -44,4 +44,4 @@ For this sensor I used the 5V variant of the Arduino Pro mini, but the 3.3V one 
 ![front pcb](images/pcb_front.png)
 ![back pcb](images/pcb_back.png)
 
-You can download the Gerber files [here](HumTempNode.zip).
+You can download the Gerber files [here](hardware).
